@@ -671,8 +671,14 @@ section#contact .section-heading {
 }
 
 section#contact .section-subheading {
-    color: #fed136;
+     font-style: normal;
+     color: #fed136;
+     font-size: 15pt;
 }
+
+section#contact table, td, tr {
+     padding: 10px;
+ }
 
 section#contact .form-group {
     margin-bottom: 25px;
