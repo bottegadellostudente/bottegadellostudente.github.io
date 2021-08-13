@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: bla bla 
+description: La Bottega dello Studente può contare su una pluridecennale esperienza nel campo del parascolastico con una specificità nella commercializzazione dei sunti Bignami che coprono principalmente le esigenze degli studenti nelle materie di studio delle scuole medie e delle superiori. 
 
 ---
