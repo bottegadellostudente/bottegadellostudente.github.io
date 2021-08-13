@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Cancelleria
+subtitle: Tutto per la scuola e l'ufficio
 layout: default
 modal-id: 1
 date: 2014-07-18
