@@ -13,34 +13,18 @@ people:
   pic: 1
   position: Proprietario e store manager
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-#
-#- name: Larry Parker
-#  pic: 2
-#  position: Lead Marketer
-#  social:
-#    - title: twitter
-#     url: #
-#   - title: facebook
-#     url: #
-#   - title: linkedin
-#     url: #
-
+      url: https://www.facebook.com/BottegaDelloStudente
 - name: Marta Mancosu
   pic: 3
   position: Social Media Manager
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/martamancosu
     - title: facebook
       url: https://www.facebook.com/martaman
     - title: instagram
-      url: #
+      url: https://www.instagram.com/tappinacaffuta/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
