@@ -1,6 +1,6 @@
 ---
-title: Articoli da regalo
-subtitle: Penne stilografiche, cornici, portafogli
+title: Calligrafia
+subtitle: Penne stilografiche, inchiostri e pennini
 layout: default
 modal-id: 3
 date: 2014-07-16
