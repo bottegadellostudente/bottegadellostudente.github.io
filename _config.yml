@@ -9,9 +9,9 @@ description: "Bottega dello Studente, cartolibreria nel centro storico di Caglia
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Francesco Mancosu
   pic: 1
-  position: Lead Designer
+  position: Proprietario e store manager
   social:
     - title: twitter
       url: #
@@ -19,21 +19,21 @@ people:
       url: #
     - title: stack-overflow
       url: #
+#
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#     url: #
+#   - title: facebook
+#     url: #
+#   - title: linkedin
+#     url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
+- name: Marta Mancosu
   pic: 3
-  position: Lead Developer
+  position: Social Media Manager
   social:
     - title: twitter
       url: #
