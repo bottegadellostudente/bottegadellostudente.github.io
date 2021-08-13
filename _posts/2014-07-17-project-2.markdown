@@ -10,6 +10,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: La Bottega dello Studente può contare su una pluridecennale esperienza nel campo del parascolastico con una specificità nella commercializzazione dei sunti Bignami che coprono principalmente le esigenze degli studenti nelle materie di studio delle scuole medie e delle superiori.
+
+Mirato per i licei c'è poi il reparto riguardante i classici latini e greci con un ricco assortimento di traduttori interlineari o con il testo a fronte. 
+La nostra offerta si è negli anni arricchita e comprende ora testi di narrativa per bambini e ragazzi, manuali di hobbistica, di cucina e tante altre novità che vi invitiamo a scoprire personalmente in negozio.
 
 ---
