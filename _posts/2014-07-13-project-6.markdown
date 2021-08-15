@@ -1,6 +1,6 @@
 ---
-title: Articoli da regalo
-subtitle: Pupazzi, cornici, portafogli...
+title: Collezionismo
+subtitle: Modellini di auto e moto
 layout: default
 modal-id: 6
 date: 2014-07-15
