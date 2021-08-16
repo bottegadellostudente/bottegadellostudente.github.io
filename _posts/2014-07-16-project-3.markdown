@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Sguardo alla tradizione bla bla bla
+description: Penne a sfera, roller e stilografiche delle migliori marche (Aurora, MontBlanc, Pelikan, Waterman, ...), inchiostri, pennini e kit di scrittura calligrafica.
 
 ---
