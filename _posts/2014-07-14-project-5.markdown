@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Dai classici scacchi alle carte da gioco, dalla tombola natalizia ai rompicapo più intricati, giochi educativi, creativi e scientifici.   
+description: Dai classici scacchi alle carte da gioco, dalla tombola natalizia ai rompicapo più intricati, giochi educativi, creativi e scientifici per tutte le età.   
 
 ---
