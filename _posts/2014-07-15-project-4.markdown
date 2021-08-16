@@ -10,7 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: La Bottega dello Studente offre anche un vasto assortimento di articoli da regalo, per aiutarti a trovare l'idea migliore per l'occasione giusta: <br/>bambole e pupazzi, un regalo sempre gradito e stimolante, modellini auto, per soddifare il desiderio dei collezionisti più esigenti,
-<br/>portafogli, cornici e penne stilografiche per un regalo importante.
+description: La Bottega dello Studente offre anche un vasto assortimento di articoli da regalo, per aiutarti a trovare l'idea migliore per l'occasione giusta.
 
 ---
