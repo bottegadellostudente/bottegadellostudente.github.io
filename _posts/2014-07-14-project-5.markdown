@@ -1,6 +1,6 @@
 ---
 title: Giochi di società
-subtitle: Bla bla bla
+subtitle: Giochi di carte, giochi in scatola, puzzle
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Dai classici scacchi alle carte da gioco, dalla tombola natalizia ai rompicapo più intricati, giochi educativi, creativi e scientifici per tutte le età.   
+description: Dai classici scacchi alle carte da gioco, dal Monopoly ai rompicapo più intricati, giochi educativi, creativi e scientifici per tutte le età.   
 
 ---
